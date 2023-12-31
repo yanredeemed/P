@@ -8,7 +8,7 @@ List file(s) yang belum ada, diantara lain ialah:
 - **3c6e5cf9bd2369c57f1061727dea4d2d.cache.dill.track.dill** (Dashboard 5\build)
 - Seluruh isian dari folder **runner** (Dashboard 5\build\windows)
 
-Jika ingin mencoba mengunduh projek ini, kami sangat menyarankan untuk tidak mengunduh langsung dari repository GitHub (karena tidak lengkap, seperti yang telah diterangkan diatas), tetapi menggunakan link dari Google Drive kami, karena seluruh file(s) ada.
+Jika ingin mencoba mengunduh projek ini, kami sangat menyarankan untuk **tidak** mengunduh langsung dari repository GitHub (karena tidak lengkap, seperti yang telah diterangkan diatas), tetapi menggunakan link dari Google Drive kami, karena seluruh file(s) ada.
 
 Link Google Drive;
 
