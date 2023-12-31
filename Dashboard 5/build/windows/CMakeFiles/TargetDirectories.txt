@@ -1,0 +1,10 @@
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/CMakeFiles/INSTALL.dir
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/CMakeFiles/ALL_BUILD.dir
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/CMakeFiles/ZERO_CHECK.dir
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/flutter/CMakeFiles/INSTALL.dir
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/runner/CMakeFiles/FAP.dir
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/runner/CMakeFiles/INSTALL.dir
+G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/runner/CMakeFiles/ALL_BUILD.dir

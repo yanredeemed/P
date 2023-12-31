@@ -1,0 +1,10 @@
+^G:\TUGAS KULIAH\SEMESTER 3\PRAKTIKUM PEMROGRAMAN MOBILE\DASHBOARD 5\BUILD\WINDOWS\CMAKEFILES\CD79B0205CCA4D6E1669D20FDA5D1815\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

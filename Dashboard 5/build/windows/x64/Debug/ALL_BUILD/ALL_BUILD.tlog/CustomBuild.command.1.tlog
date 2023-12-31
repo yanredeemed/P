@@ -1,0 +1,10 @@
+^G:\TUGAS KULIAH\SEMESTER 3\PRAKTIKUM PEMROGRAMAN MOBILE\DASHBOARD 5\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SG:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/windows" "-BG:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows" --check-stamp-file "G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
