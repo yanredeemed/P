@@ -1,4 +1,4 @@
-Ini adalah source code dari Pusbakor Aldafata.
+Ini adalah source code dari Aldafata Pusbakor .
 
 Catatan: Kode ini belum lengkap, disebabkan terdapat sebagian file(s) yang belum ter-upload. Hal ini dikarenakan GitHub tidak dapat meng-upload file yang berukuran lebih besar dari 25 MB, tetapi source code di repository ini telah mencakup sebagian besar dari keseluruhan kode yang kami pakai.
 
