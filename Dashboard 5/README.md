@@ -1,1 +1,1 @@
-Ini adalah source code dari Pusbakor Aldafata
+Ini adalah source code dari Pusbakor Aldafata.
