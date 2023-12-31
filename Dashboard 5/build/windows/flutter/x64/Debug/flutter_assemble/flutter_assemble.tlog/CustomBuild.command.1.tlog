@@ -1,0 +1,28 @@
+^G:\TUGAS KULIAH\SEMESTER 3\PRAKTIKUM PEMROGRAMAN MOBILE\DASHBOARD 5\BUILD\WINDOWS\CMAKEFILES\66593EAD82547990097A4B50EEAF43DB\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env "FLUTTER_ROOT=E:\Aplikasi\Visual Studio Code\flutter" "PROJECT_DIR=G:\Tugas Kuliah\Semester 3\Praktikum Pemrograman Mobile\Dashboard 5" "FLUTTER_ROOT=E:\Aplikasi\Visual Studio Code\flutter" "FLUTTER_EPHEMERAL_DIR=G:\Tugas Kuliah\Semester 3\Praktikum Pemrograman Mobile\Dashboard 5\windows\flutter\ephemeral" "PROJECT_DIR=G:\Tugas Kuliah\Semester 3\Praktikum Pemrograman Mobile\Dashboard 5" "FLUTTER_TARGET=G:\Tugas Kuliah\Semester 3\Praktikum Pemrograman Mobile\Dashboard 5\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9iZDk4NmM1ZWQyMGE2MmRjMzRiNzcxOGM1MGFiYzc4MmJlYWU0YzMzLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=G:\Tugas Kuliah\Semester 3\Praktikum Pemrograman Mobile\Dashboard 5\.dart_tool\package_config.json" "E:/Aplikasi/Visual Studio Code/flutter/packages/flutter_tools/bin/tool_backend.bat" windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TUGAS KULIAH\SEMESTER 3\PRAKTIKUM PEMROGRAMAN MOBILE\DASHBOARD 5\BUILD\WINDOWS\CMAKEFILES\81EEB47E09F44E4B92365190975E82A4\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^G:\TUGAS KULIAH\SEMESTER 3\PRAKTIKUM PEMROGRAMAN MOBILE\DASHBOARD 5\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SG:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/windows" "-BG:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows" --check-stamp-file "G:/Tugas Kuliah/Semester 3/Praktikum Pemrograman Mobile/Dashboard 5/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
