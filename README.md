@@ -15,3 +15,5 @@ Link Google Drive:
 _https://drive.google.com/file/d/1NoaLe9dp9wpO9SGPS-ceBVozvCRduhdp/view?usp=sharing_
 
 _Zip_ dari Google Drive tersebut berukuran 166 MB, dan akan menjadi 644 MB setelah di-extract.
+
+Sekian.
